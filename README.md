@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 - Project Gutenberg for providing free access to a vast collection of literary works.
 - The open-source community for their contributions and support.
 
-Happy reading! 📚
+Happy reading! 📚📚
