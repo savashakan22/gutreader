@@ -1,4 +1,4 @@
-# Project Title: Gutenberg eBook Reader
+# Gutenberg eBook Reader
 
 ## Overview
 The Gutenberg eBook Reader is an open-source project that provides a simple and user-friendly interface for reading books from Project Gutenberg. This eBook reader is designed to download books from the Gutenberg API, allowing users to access a vast collection of literary classics for free.
